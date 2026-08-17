@@ -9,7 +9,7 @@ I'm a digital marketing strategist working at the intersection of technical SEO,
 This site is the permanent home for my writing. Posts here often started as LinkedIn posts or technical deep-dives, and some go on to run on dev.to, DZone, or Hackernoon — but this is the canonical version.
 
 **Elsewhere:**
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+- [LinkedIn](https://www.linkedin.com/in/mainyosef/)
 - [dev.to](https://dev.to/YOUR-HANDLE)
 - [DZone](https://dzone.com/users/YOUR-HANDLE)
 - [Hackernoon](https://hackernoon.com/u/YOUR-HANDLE)
