@@ -1,0 +1,30 @@
+title: Yosef [Last Name]
+description: Digital marketing strategist writing on martech, SEO, and the seam between marketing and engineering.
+theme: minima
+
+# Minima theme settings
+minima:
+  skin: classic
+  social_links:
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" }
+    - { platform: github,   user_url: "https://github.com/origin-story613" }
+
+# Site URL settings — project repo, so baseurl matters (it's the /writing suffix)
+# If/when you attach a custom domain, set baseurl back to "" and url to the domain
+url: "https://origin-story613.github.io"
+baseurl: "/writing"
+
+# Show full article list, not just excerpts, on the home page (optional — see README)
+show_excerpts: true
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Nav pages (shown in the header)
+header_pages:
+  - about.md
+  - press.md
