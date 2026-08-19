@@ -1,4 +1,4 @@
-title: Yosef Main
+title: Yosef [Last Name]
 description: Digital marketing strategist writing on martech, SEO, and the seam between marketing and engineering.
 theme: minima
 
@@ -9,10 +9,9 @@ minima:
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" }
     - { platform: github,   user_url: "https://github.com/origin-story613" }
 
-# Site URL settings — project repo, so baseurl matters (it's the /writing suffix)
-# If/when you attach a custom domain, set baseurl back to "" and url to the domain
-url: "https://origin-story613.github.io"
-baseurl: "/writing"
+# Site URL settings — custom domain, no baseurl needed (site lives at the root)
+url: "https://yosefmain.com"
+baseurl: ""
 
 # Show full article list, not just excerpts, on the home page (optional — see README)
 show_excerpts: true
