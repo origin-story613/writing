@@ -10,7 +10,7 @@ Standard formatting, no dupes, no numbers stored as text, and one variable per c
 
 Early in my career I was recruited by a chemistry lab because they needed someone who could code. The work involved imaging lipids with an electron microscope, modeling them in PyMOL, simulating what would happen if you cut specific bonds and opened the molecule, then sending that model back to the lab so they could replicate it physically and image it again. If the opened lipid matched the model, you'd identified it correctly.
 
-![A lipid molecule model alongside food chemistry imagery](/writing/assets/images/food-chemistry.jpg)
+![A lipid molecule model alongside food chemistry imagery](/assets/images/food-chemistry.jpg)
 
 I built the dashboard that tracked the lab results. Things like markers, bond types, enzymes and molecule classifications. All of it in Python.
 

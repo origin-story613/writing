@@ -6,7 +6,7 @@ categories: [seo]
 excerpt: "What happens when an AI system can stop reading your site and start doing things on it — closing out a six-post series on agentic readiness."
 ---
 
-![A gear or action icon, representing the shift from descriptive to action-oriented site structure](/writing/assets/images/actionable.jpg)
+![A gear or action icon, representing the shift from descriptive to action-oriented site structure](/assets/images/actionable.jpg)
 
 What happens when an AI system can stop reading your site and start doing things on it?
 

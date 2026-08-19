@@ -8,7 +8,7 @@ excerpt: "The final piece of the AI governance framework — a review process th
 
 That's the AI-approval process I'd want at any organization, and most places have nothing like it.
 
-![Checkmarks or a review checklist, representing the approval workflow](/writing/assets/images/checks.jpg)
+![Checkmarks or a review checklist, representing the approval workflow](/assets/images/checks.jpg)
 
 But this is what that meeting should address:
 

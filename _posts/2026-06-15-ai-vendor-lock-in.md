@@ -6,7 +6,7 @@ categories: [martech]
 excerpt: "Don Shin on the pattern behind AI vendor lock-in, and why the trap never feels like a trap when you're moving fast."
 ---
 
-![Illustration representing vendor lock-in and infrastructure dependency](/writing/assets/images/vendor-lockin.jpg)
+![Illustration representing vendor lock-in and infrastructure dependency](/assets/images/vendor-lockin.jpg)
 
 [Don Shin](https://www.linkedin.com/in/donshin1/) changed my mind at the Cleveland AI Summit.
 

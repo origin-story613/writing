@@ -6,7 +6,7 @@ categories: [ai-governance]
 excerpt: "A clean data foundation is invisible until it breaks — on bad inputs, AI hallucinations, and who gets left out when data skews toward the easy-to-measure."
 ---
 
-![A ruby gemstone, playing on Ruby on Rails as the foundation for a career that now spans data and writing](/writing/assets/images/ruby.jpg)
+![A ruby gemstone, playing on Ruby on Rails as the foundation for a career that now spans data and writing](/assets/images/ruby.jpg)
 
 That work taught me something that carries straight into AI: a clean foundation is invisible until it breaks.
 

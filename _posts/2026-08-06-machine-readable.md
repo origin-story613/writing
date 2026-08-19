@@ -6,7 +6,7 @@ categories: [seo]
 excerpt: "Sitemaps get you found, schema ensures you're understood correctly once you are — pulling apart two things marketers lump together as 'technical SEO stuff.'"
 ---
 
-![Structured data or code representing a machine-readable layer over web content](/writing/assets/images/machine-readable.jpg)
+![Structured data or code representing a machine-readable layer over web content](/assets/images/machine-readable.jpg)
 
 A sitemap and a schema tag have two different jobs, but most marketers lump them together as "technical SEO stuff." Let's pull them apart.
 

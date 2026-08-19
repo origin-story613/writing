@@ -6,7 +6,7 @@ categories: [martech, ai-governance]
 excerpt: "Don Shin's six places where AI agents create disproportionate value, and why the answer to vendor lock-in is owning the one thing that matters."
 ---
 
-![Illustration representing focused AI capability rather than general-purpose replacement](/writing/assets/images/superpowers.jpg)
+![Illustration representing focused AI capability rather than general-purpose replacement](/assets/images/superpowers.jpg)
 
 [Don Shin](https://www.linkedin.com/in/donshin1/)'s warning about vendor lock-in has a flip side: where are your AI superpowers actually hiding?
 

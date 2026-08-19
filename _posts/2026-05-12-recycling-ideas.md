@@ -14,7 +14,7 @@ Right now that's my innovation. Taking someone else's rabbit hole and seeing if 
 
 Server-side GTM is the same idea. It's not new. Plenty of organizations run it. But who is evaluating whether it makes sense for a mid-sized nonprofit running Open Y on Drupal, integrating with Daxko, and trying to figure out why their conversion attribution looks like a migraine aura?
 
-![A jar of fermenting hot sauce made from roasted poblanos, jalapeños, onions, garlic, and apples](/writing/assets/images/squeezey-juice.jpg)
+![A jar of fermenting hot sauce made from roasted poblanos, jalapeños, onions, garlic, and apples](/assets/images/squeezey-juice.jpg)
 
 I'm also making fermented hot sauce right now. Roasted poblanos and jalapeños layered with onions, garlic, and apples. I didn't invent fermentation or hot sauce. But if this combo is tasty I'm taking full credit.
 

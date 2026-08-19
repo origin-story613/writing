@@ -6,7 +6,7 @@ categories: [martech]
 excerpt: "On Kafka's Poseidon, martech plumbing that's finally ready to run itself, and why the desk still feels safer than the ocean."
 ---
 
-![An ocean god figure seated at a desk, evoking Kafka's Poseidon buried in accounts rather than sailing the sea](/writing/assets/images/nodens.jpg)
+![An ocean god figure seated at a desk, evoking Kafka's Poseidon buried in accounts rather than sailing the sea](/assets/images/nodens.jpg)
 
 The story was called "Poseidon."
 

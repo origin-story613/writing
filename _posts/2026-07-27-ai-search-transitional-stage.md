@@ -6,7 +6,7 @@ categories: [seo]
 excerpt: "Search engines helped people find a page. Agents might soon finish the task the page existed for — the first post in a series on what that means for organizations like the Y."
 ---
 
-![A search interface or magnifying glass, representing the shift from search to agentic action](/writing/assets/images/search.jpg)
+![A search interface or magnifying glass, representing the shift from search to agentic action](/assets/images/search.jpg)
 
 For most of internet history, a website's one job was to help a human find a page.
 

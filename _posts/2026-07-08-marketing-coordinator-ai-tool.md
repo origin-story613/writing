@@ -8,7 +8,7 @@ excerpt: "What AI governance failure actually looks like — a normal person doi
 
 By the end of the week, she's pasted member survey data into it to draft a newsletter. Names, email addresses, and a few open-ended comments about member complaints. The thought of asking first never even occurred to her. There was no policy to point to and no one to check with. She is not being careless and there is no malicious actor.
 
-![A blindfolded figure, representing decisions made without visibility into policy or risk](/writing/assets/images/blind.jpg)
+![A blindfolded figure, representing decisions made without visibility into policy or risk](/assets/images/blind.jpg)
 
 Her manager finds out 3 weeks later, during an unrelated audit. The coordinator was just trying to get a newsletter out by deadline.
 

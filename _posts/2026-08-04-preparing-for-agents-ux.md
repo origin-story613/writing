@@ -6,7 +6,7 @@ categories: [seo]
 excerpt: "None of this requires new technology — the accessibility work that's been on every audit checklist for a decade is exactly what makes a site usable by AI agents."
 ---
 
-![A robot or AI agent icon interacting with a web page interface](/writing/assets/images/agents.jpg)
+![A robot or AI agent icon interacting with a web page interface](/assets/images/agents.jpg)
 
 None of this requires new technology, most of it's just good practice that's gone unfinished.
 

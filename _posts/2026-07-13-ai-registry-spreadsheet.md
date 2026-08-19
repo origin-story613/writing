@@ -6,7 +6,7 @@ categories: [ai-governance]
 excerpt: "Start with a 5-column spreadsheet instead — what a working AI tool registry actually needs to track."
 ---
 
-![A checklist or policy document, representing the registry spreadsheet in place of a lengthy AI policy](/writing/assets/images/ai-policy.jpg)
+![A checklist or policy document, representing the registry spreadsheet in place of a lengthy AI policy](/assets/images/ai-policy.jpg)
 
 Skip that. Start with a spreadsheet.
 

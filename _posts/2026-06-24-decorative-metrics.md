@@ -6,7 +6,7 @@ categories: [martech]
 excerpt: "Why activity metrics like 'posts generated' and impressions are decoration, and the test every number on a dashboard should have to pass."
 ---
 
-![A magician performing a trick, representing the sleight of hand of vanity metrics](/writing/assets/images/magician.jpg)
+![A magician performing a trick, representing the sleight of hand of vanity metrics](/assets/images/magician.jpg)
 
 That number went straight into the monthly report. Nobody asked whether any of the 30 brought in a single signup, because 30 is the satisfying number and the signup is the hard one.
 

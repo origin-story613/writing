@@ -8,7 +8,7 @@ excerpt: "Why AI-generated content leaves readers blank, and what that means for
 
 You know the feeling on a long flat drive where you suddenly realize you've traveled five miles and registered nothing. That's what's happening to readers scrolling through AI-generated content. The eyes glaze and pages blur. Nothing sticks.
 
-![A hand resting on a car steering wheel during a long highway drive](/writing/assets/images/love-car.jpg)
+![A hand resting on a car steering wheel during a long highway drive](/assets/images/love-car.jpg)
 
 When something feels like it came from a person it stops us. There's evidence of investment. Someone toiled over it a little and sweated into it. Bled over it, even if only in the small private way writers do.
 

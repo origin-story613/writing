@@ -6,7 +6,7 @@ categories: [seo]
 excerpt: "Why redirect maps are the unglamorous deliverable that actually determines whether a site migration keeps its rankings."
 ---
 
-![A robot in a captain's hat, standing at the helm — representing the judgment calls a site migration requires](/writing/assets/images/robot-captain.jpg)
+![A robot in a captain's hat, standing at the helm — representing the judgment calls a site migration requires](/assets/images/robot-captain.jpg)
 
 Everything search engines learned about the old one is attached to URLs you're about to change.
 

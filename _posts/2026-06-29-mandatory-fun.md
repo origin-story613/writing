@@ -16,7 +16,7 @@ I tense up every time I hear that one. I already have a family. A family doesn't
 
 And that's fine. Companies are built to serve the company. That's the design, and there's nothing wrong with it. I don't need my employer to love me. I need clear expectations and to be treated like an adult who was hired to do a job.
 
-![Volunteers sorting canned goods and supplies at a food bank](/writing/assets/images/food-bank.jpg)
+![Volunteers sorting canned goods and supplies at a food bank](/assets/images/food-bank.jpg)
 
 Here's what does work, and I see it where I am now. The closest thing we do to a team bonding activity is a volunteer day at the food bank. It's not performative and nobody is cosplaying. We show up, do something that matters, and it happens to line up with why the organization exists in the first place. You end the day actually liking the people you stacked cans with.
 

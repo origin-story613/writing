@@ -6,7 +6,7 @@ categories: [martech]
 excerpt: "How agile culture and vibe-coding turned 'move fast and break things' into documentation debt with a deadline — plus a fermented pasta sauce recipe."
 ---
 
-![A jar of Gene Autry themed western imagery paired with martech chaos](/writing/assets/images/gene-autry.jpg)
+![A jar of Gene Autry themed western imagery paired with martech chaos](/assets/images/gene-autry.jpg)
 
 Sergio Leone might have written the script: Skip the governance, bypass the testing, ship it fast and fix it later. It feels like agility but produces spaghetti you could eat alongside the campfire beans from Blazing Saddles. I once worked on a Ruby on Rails app where the most common form of documentation was "this sucks, I'll rewrite it later."
 

@@ -26,6 +26,6 @@ Data hygiene isn't glamorous. Neither is scrubbing fermented honey and fruit pul
 
 Two lessons. I'm not listing a third just to make it feel complete.
 
-![A messy kitchen counter covered in fermented honey and fruit pulp after racking a batch of mead](/writing/assets/images/ferment_mess.jpg)
+![A messy kitchen counter covered in fermented honey and fruit pulp after racking a batch of mead](/assets/images/ferment_mess.jpg)
 
 Go make something. Doesn't have to be mead. You can ferment almost anything.

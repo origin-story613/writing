@@ -10,7 +10,7 @@ Nearly 400 people showed up to the Greater Cleveland Partnership AI Summit a cou
 
 I agree but would add that execution is where the work begins and where the demos stop being useful.
 
-![A robot figure bound in chains or restraints, representing AI governance and constraint](/writing/assets/images/shackled-robot.jpg)
+![A robot figure bound in chains or restraints, representing AI governance and constraint](/assets/images/shackled-robot.jpg)
 
 I run web content for an organization with 11 branches and seasonal programs that change constantly. AI can draft that content fast but speed was never the issue. The fast version was recognizably AI. It sounded generic and a little inflated. Smooth in a way that real staff never are. For a community organization, that tone quietly costs you trust. People feel it before they can name it.
 

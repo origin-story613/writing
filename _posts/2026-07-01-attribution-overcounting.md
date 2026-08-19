@@ -6,7 +6,7 @@ categories: [martech]
 excerpt: "Why every ad platform overcounts its own contribution, and why one source of truth plus a holdout beats stacking dashboards."
 ---
 
-![A growth chart trending upward, representing the inflated numbers stacked attribution dashboards produce](/writing/assets/images/growth.jpg)
+![A growth chart trending upward, representing the inflated numbers stacked attribution dashboards produce](/assets/images/growth.jpg)
 
 Meta and Google each claimed some. The affiliate dashboard claimed some more. They all added up to about 130% of actual orders that left the warehouse.
 
