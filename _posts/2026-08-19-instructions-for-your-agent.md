@@ -6,6 +6,8 @@ excerpt: A new kind of document is showing up online, install guides written for
 image: /writing/assets/images/ai-file.jpg
 ---
 
+![A gear or action icon, representing the shift from descriptive to action-oriented site structure](/assets/images/ai-file.jpg)
+
 A new kind of document has shown up on the internet this year, and while it looks like a README, it's not written for you. This is a document written for your AI agent, with a full set of instructions for execution. Command runs. Service configs.
 
 I received one in a marketing newsletter a few weeks ago. The pitch was for an open source memory system for AI agents called GBrain, built by Garry Tan, CEO of Y Combinator. It's a legitimate project based on a good idea. Buried in the "homework" section of the email was this interesting line: paste a GitHub URL into Claude Code, or another autonomous coding agent, and tell it to follow the install guide written for agents. Budget 30 minutes.
