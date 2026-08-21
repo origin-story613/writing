@@ -10,6 +10,3 @@ This site is the permanent home for my writing. Posts here often started as Link
 
 **Elsewhere:**
 - [LinkedIn](https://www.linkedin.com/in/mainyosef/)
-- [dev.to](https://dev.to/YOUR-HANDLE)
-- [DZone](https://dzone.com/users/YOUR-HANDLE)
-- [Hackernoon](https://hackernoon.com/u/YOUR-HANDLE)
