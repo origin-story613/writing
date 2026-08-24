@@ -12,6 +12,12 @@ minima:
 # Site URL settings — custom domain, no baseurl needed (site lives at the root)
 url: "https://yosefmain.com"
 baseurl: ""
+ 
+# Google Analytics — replace with your actual GA4 Measurement ID (starts with G-)
+# The minima theme automatically injects the tag from _includes/google-analytics.html
+# into every page's <head> when this is set and the build runs in production
+# (GitHub Pages always builds in production, so no extra step needed there).
+google_analytics: G-4Y2CYEN6FQ
 
 # Show full article list, not just excerpts, on the home page (optional — see README)
 show_excerpts: true
