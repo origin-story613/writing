@@ -6,6 +6,8 @@ categories: [ai-governance]
 excerpt: "Combining and expanding four earlier posts into one working framework — registry, risk tiers, review process — plus what AGENTS.md-style files mean for the whole thing."
 ---
 
+![A gear or action icon, representing the shift from descriptive to action-oriented site structure](/assets/images/ai-governance.jpg)
+
 I wrote about a marketing coordinator a few weeks back. She found an AI writing tool on a Tuesday.
 
 By the end of the week, she'd pasted member survey data into it to draft a newsletter. Names, email addresses, a few open-ended comments about member complaints.
