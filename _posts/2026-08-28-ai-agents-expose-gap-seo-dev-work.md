@@ -3,10 +3,10 @@ layout: post
 title: "AI agents expose a gap between SEO and dev work. Marketing should own it."
 date: 2026-08-28
 categories: [martech, seo]
-excerpt: ""
+excerpt: "SEO has AEO, GEO, ASO, and ADO, but none of them cover what happens after an AI agent lands on your site and has to actually use it. That gap belongs to marketing, not engineering."
 ---
 
-![acx](/assets/images/acx.jpg)
+![placeholder](/assets/images/PLACEHOLDER.jpg)
 
 The SEO industry can't agree on a name for what happens after an AI agent lands on your site. Some call it ASO, Agentic Search Optimization. Others call it ADO, Agentic Discoverability Optimization. Neither term is settled, and neither is a good pick. ASO already belongs to App Store Optimization. ADO has meant Azure DevOps to developers for years, and before that it meant ADO.NET. The naming confusion is a symptom of a bigger problem: the industry doesn't fully understand what this layer is or who's supposed to own it.
 
