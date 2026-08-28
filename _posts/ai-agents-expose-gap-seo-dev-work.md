@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "AI agents expose a gap between SEO and dev work. Marketing should own it."
+date: 2026-08-28
 categories: [martech, seo]
-permalink: /ai-agents-expose-gap-seo-dev-work/
+excerpt: ""
 ---
 
 ![acx](/assets/images/acx.jpg)
