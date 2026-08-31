@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Riskiest Thing You Can Do to a Website That Already Works Is Redesign It"
+title: "The riskiest thing you can do to a website that already works is redesign it"
 date: 2026-06-23
 categories: [seo]
 excerpt: "Why redirect maps are the unglamorous deliverable that actually determines whether a site migration keeps its rankings."
