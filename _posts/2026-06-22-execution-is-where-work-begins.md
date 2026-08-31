@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nearly 400 People Showed Up to Hear That AI Has Moved From Experimentation to Execution"
+title: "Nearly 400 people showed up to hear that AI has moved from experimentation to execution"
 date: 2026-06-22
 categories: [ai-governance]
 excerpt: "What it actually takes to govern AI-drafted content for a multi-branch nonprofit — and why writing the rules took longer than the drafting."
