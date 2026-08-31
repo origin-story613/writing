@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I Used to Think Data Should Come in a Nice Tidy Package"
+title: "I used to think data should come in a nice tidy package"
 date: 2026-06-01
 categories: [martech]
 excerpt: "What building dashboards for a chemistry lab taught me about zen, dirty data, and asking the right questions before you build anything."
