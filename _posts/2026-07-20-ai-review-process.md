@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Marketing Brings the Use Case. IT Checks the Data Path. Legal Checks the Exposure."
+title: "Marketing brings the use case. IT checks the data path. Legal checks the exposure."
 date: 2026-07-20
 categories: [ai-governance]
 excerpt: "The final piece of the AI governance framework — a review process that only pulls in legal and IT when the risk tier calls for it."
