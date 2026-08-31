@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Tool Wrote 30 Pieces of Content for a Team I Know Last Month"
+title: "A tool wrote 30 pieces of content for a team i know last month"
 date: 2026-06-24
 categories: [martech]
 excerpt: "Why activity metrics like 'posts generated' and impressions are decoration, and the test every number on a dashboard should have to pass."
