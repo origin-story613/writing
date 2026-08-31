@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I Once Pulled a Report Where Our Ad Platforms Claimed More Sales Than the Company Actually Made"
+title: "I once pulled a report where our ad platforms claimed more sales than the company actually made"
 date: 2026-07-01
 categories: [martech]
 excerpt: "Why every ad platform overcounts its own contribution, and why one source of truth plus a holdout beats stacking dashboards."
