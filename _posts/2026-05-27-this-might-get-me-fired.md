@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This Might Get Me Fired"
+title: "This might get me fired"
 date: 2026-05-27
 categories: [martech]
 excerpt: "Watching a carefully built UTM attribution structure collapse in Daxko, and what fermenting pasta sauce has to do with directional data."
