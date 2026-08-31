@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I Used to Think AI Vendor Lock-In Was a Tomorrow Problem"
+title: "I used to think AI vendor lock-in was a tomorrow problem"
 date: 2026-06-15
 categories: [martech]
 excerpt: "Don Shin on the pattern behind AI vendor lock-in, and why the trap never feels like a trap when you're moving fast."
