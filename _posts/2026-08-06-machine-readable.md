@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Making YMCA Information Machine-Readable"
+title: "Making YMCA information machine-readable"
 date: 2026-08-06
 categories: [seo]
 excerpt: "Sitemaps get you found, schema ensures you're understood correctly once you are — pulling apart two things marketers lump together as 'technical SEO stuff.'"
