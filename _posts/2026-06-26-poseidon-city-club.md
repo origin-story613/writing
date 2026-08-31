@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I Spent a Wednesday Afternoon in May at the City Club Watching a Room of Executives Read a Kafka Story"
+title: "I spent a wednesday afternoon in may at the city club watching a room of executives read a Kafka story"
 date: 2026-06-26
 categories: [martech]
 excerpt: "On Kafka's Poseidon, martech plumbing that's finally ready to run itself, and why the desk still feels safer than the ocean."
