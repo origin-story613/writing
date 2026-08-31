@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Where Are Your AI Superpowers Actually Hiding?"
+title: "Where are your AI superpowers actually hiding?"
 date: 2026-06-17
 categories: [martech, ai-governance]
 excerpt: "Don Shin's six places where AI agents create disproportionate value, and why the answer to vendor lock-in is owning the one thing that matters."
