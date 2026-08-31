@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "20 Minutes Disappeared Into Going Around the Room Naming the First Concert We Ever Attended"
+title: "20 minutes disappeared into going around the room naming the first concert we ever attended"
 date: 2026-06-29
 categories: [mission]
 excerpt: "On mandatory fun, companies that call themselves family, and why the volunteer day at the food bank actually works."
