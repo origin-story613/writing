@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I Wrote Ruby on Rails for Years Before I Ever Touched a Content Calendar"
+title: "I wrote ruby on rails for years before i ever touched a content calendar"
 date: 2026-07-06
 categories: [ai-governance]
 excerpt: "A clean data foundation is invisible until it breaks — on bad inputs, AI hallucinations, and who gets left out when data skews toward the easy-to-measure."
