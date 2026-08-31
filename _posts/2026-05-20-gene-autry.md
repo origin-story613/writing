@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gene Autry Would Not Approve of Your HubSpot Workflows"
+title: "Gene Autry would not approve of your Hubspot workflows"
 date: 2026-05-20
 categories: [martech]
 excerpt: "How agile culture and vibe-coding turned 'move fast and break things' into documentation debt with a deadline — plus a fermented pasta sauce recipe."
