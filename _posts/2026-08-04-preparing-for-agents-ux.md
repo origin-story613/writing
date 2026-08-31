@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Preparing for Agents Starts With Better User Experience"
+title: "Preparing for agents starts with better user experience"
 date: 2026-08-04
 categories: [seo]
 excerpt: "None of this requires new technology — the accessibility work that's been on every audit checklist for a decade is exactly what makes a site usable by AI agents."
