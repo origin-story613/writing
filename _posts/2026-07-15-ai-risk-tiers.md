@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Not Every AI Use Case Carries the Same Risk"
+title: "Not every AI use case carries the same risk"
 date: 2026-07-15
 categories: [ai-governance]
 excerpt: "Sorting AI use cases into 3 risk tiers makes the review process fast instead of exhausting — what belongs in each tier and who signs off."
