@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI Search May Only Be the Transitional Stage"
+title: "AI search may only be the transitional stage"
 date: 2026-07-27
 categories: [seo]
 excerpt: "Search engines helped people find a page. Agents might soon finish the task the page existed for — the first post in a series on what that means for organizations like the Y."
