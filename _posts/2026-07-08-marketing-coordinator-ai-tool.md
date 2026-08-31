@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Marketing Coordinator Finds an AI Writing Tool on a Tuesday"
+title: "A marketing coordinator finds an AI writing tool on a tuesday"
 date: 2026-07-08
 categories: [ai-governance]
 excerpt: "What AI governance failure actually looks like — a normal person doing normal work inside a policy vacuum — and the framework built to get ahead of it."
