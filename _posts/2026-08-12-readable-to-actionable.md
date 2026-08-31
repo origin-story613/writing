@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Readable to Actionable"
+title: "From readable to actionable"
 date: 2026-08-12
 categories: [seo]
 excerpt: "What happens when an AI system can stop reading your site and start doing things on it — closing out a six-post series on agentic readiness."
