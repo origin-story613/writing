@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recycling Other People's Ideas Is Often Called Innovation"
+title: "Recycling other people's ideas is often called innovation"
 date: 2026-05-12
 categories: [martech]
 excerpt: "Evaluating server-side Google Tag Manager for a mid-sized nonprofit, with a detour through fermented hot sauce."
