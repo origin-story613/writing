@@ -10,3 +10,4 @@ This site is the permanent home for my writing. Posts here often started as Link
 
 **Elsewhere:**
 - [LinkedIn](https://www.linkedin.com/in/mainyosef/)
+- [Hackernoon](https://hackernoon.com/u/yosef-main)
