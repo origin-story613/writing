@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Don't Start Your AI Policy With 40 Pages Nobody Will Read"
+title: "Don't start your AI policy with 40 pages nobody will read"
 date: 2026-07-13
 categories: [ai-governance]
 excerpt: "Start with a 5-column spreadsheet instead — what a working AI tool registry actually needs to track."
