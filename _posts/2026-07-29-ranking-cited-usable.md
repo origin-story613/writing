@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ranking, Being Cited, and Being Usable Are Different"
+title: "Ranking, being cited, and being usable are different"
 date: 2026-07-29
 categories: [seo]
 excerpt: "A page can rank #1, get cited by ChatGPT, and still fail once an AI agent tries to use it — SEO, AI visibility, and agentic readiness are three separate things a site can pass or fail."
