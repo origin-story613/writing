@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI Content Is Highway Hypnosis"
+title: "AI content is highway hypnosis"
 date: 2026-06-03
 categories: [seo]
 excerpt: "Why AI-generated content leaves readers blank, and what that means for SEO as the meeting point of marketing technology and human desire."
