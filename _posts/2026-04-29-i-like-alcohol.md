@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I Like Alcohol (Or: What Making Mead Taught Me About Marketing)"
+title: "I like alcohol (or: What making mead taught me about marketing)"
 date: 2026-04-29
 categories: [martech]
 excerpt: "What fermenting honey wine actually has to do with nurture sequences and data hygiene."
