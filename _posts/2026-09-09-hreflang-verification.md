@@ -5,6 +5,8 @@ categories: [seo]
 excerpt: "Two hreflang failures, years apart and worlds apart in resources, both missed for the same reason: nobody checked whether the tags' targets loaded directly or bounced through a redirect first."
 ---
 
+![acx](/assets/images/booksite.jpg)
+
 The Hebrew pages of a rare book dealer's new site were live with `dir="rtl"` missing entirely. Prices and ISBNs ran backward. English author names embedded inside Hebrew titles landed on the wrong side of the sentence, and parentheses opened where they should have closed.
 
 I was put on the site after launch to check it, expensive inventory, the kind of listing that can run into five figures, and RTL never made it into the build.
